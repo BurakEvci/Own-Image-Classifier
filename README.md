@@ -1,0 +1,1 @@
+This is an image classifier project. I trained the machine with 102 types of flower images and after the machine was trained it predicted the type of a flower image I uploaded. Note: I didn't upload the flower images in this repository.
